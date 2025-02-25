@@ -15,5 +15,4 @@ public class UserController {
     public String bye(){
         return "bye";
     }
-
 }
